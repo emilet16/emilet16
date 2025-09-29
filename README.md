@@ -10,4 +10,4 @@
 
 
 ## ⚡ Fun fact:
-I love learning languages! I speak French and English, and I am currently learning Mandarin Chinese.
+I love learning languages! I speak French and English, and I am learning Mandarin Chinese.
