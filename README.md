@@ -1,16 +1,13 @@
-## Hi there 👋
+## Hi there! I'm Émile 👋
 
-<!--
-**emilet16/emilet16** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## 🚀 About Me
+- 🌱 I’m currently learning Machine Learning and LLMs.
+- 👯 I’m looking to collaborate on your next startup!
+- 📫 How to reach me: [LinkedIn](https://www.linkedin.com/in/emile-turcotte)
 
-Here are some ideas to get you started:
+## 📌 Projects
+- [Quartier](https://github.com/emilet16/Bluetooth-Business-Card): A Bluetooth powered business card to stay in contact at networking events!
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+
+## ⚡ Fun fact:
+I love learning languages! I speak French and English, and I am currently learning Mandarin Chinese.
