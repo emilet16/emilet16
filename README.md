@@ -3,7 +3,7 @@
 ## 🚀 About Me
 - 🌱 I’m currently learning Machine Learning and LLMs.
 - 👯 I’m looking to collaborate on your next startup!
-- 📫 How to reach me: [LinkedIn](https://www.linkedin.com/in/emile-turcotte)
+- 📫 How to reach me: [LinkedIn](https://www.linkedin.com/in/emilet16)
 
 ## 📌 Projects
 - [Quartier](https://github.com/emilet16/Bluetooth-Business-Card): A Bluetooth powered business card to stay in contact at networking events!
